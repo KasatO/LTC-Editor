@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.11.11 08:51:49.671.pas,C:\Delphi\LTC Editor\Unit1.pas=C:\Delphi\LTC Editor\Search.pas</Transaction>
+    <Transaction>2008.11.11 08:51:49.671.dfm,C:\Delphi\LTC Editor\Unit1.dfm=C:\Delphi\LTC Editor\Search.dfm</Transaction>
+    <Transaction>2009.01.26 12:08:42.046.pas,C:\Delphi\LTC Editor\Unit1.pas=C:\Delphi\LTC Editor\GenderCorrection.pas</Transaction>
+    <Transaction>2009.01.26 12:08:42.046.dfm,C:\Delphi\LTC Editor\Unit1.dfm=C:\Delphi\LTC Editor\GenderCorrection.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

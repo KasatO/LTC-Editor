@@ -1,0 +1,53 @@
+[TExMainForm]
+SpeedButton1Text=Найти
+SpeedButton2Text=Заменить
+StaticText1Text=Имя переменной
+GroupBox1Text=Добавить объявление
+SpeedButton3Text=Добавить
+StaticText4Text=Имя
+StaticText5Text=Значение
+Panel4Text=Файл загрузки
+Panel5Text=Файл настроек
+Panel6Text=Исходный код
+Panel10Text=Задать каталог
+N1Text=Сохранить
+N2Text=Сохранить как
+N8Text=Шрифт
+N3Text=Файл
+N4Text=Открыть
+N9Text=Сохранить все
+N11Text=Настройки
+N5Text=Выход
+langMenuItemText=Язык
+N15Text=О программе
+TExMainFormCaption=String Explorer v1.0
+Label1Text=Значение
+Panel11Text=Файл загрузки
+N6Text=Открыть
+
+[TAbout]
+TAboutCaption=О программе
+Label2Text=Сайт порграммы
+Label3Text=Моя почта
+StaticText1Text=Программа Александра Руденко
+
+[TMenuForm]
+TMenuFormCaption=Настройки
+CheckBox1Text=Использовать  префикс
+CheckBox2Text=Искать строки на русском
+Button1Text=Отмена
+Button2Text=Ok
+
+[Global]
+Lng_SaveDialogFilterIni=ini файл|*.ini
+Lng_SaveDialogTitleIni=Сохранение файла настроек
+Lng_SaveDialogFilterPas=pas файл|*.pas
+Lng_SaveDialogTitlePas=Сохранение исходного кода
+Lng_SaveDialogTitleNewPas=Сохранение полученного кода
+Lng_FindClose=Поиск закончен
+Lng_SaveQ=Сохранить "%s" перед закрытием?
+Lng_SelFolder=Выберите папку 
+FileNameError=Неправильное имя переменной
+ZeroLenError=Имя переменной не может быть пустым
+HelpKeyFileName=keyRus.txt
+Lng_OutFileError=Неверный формат файла результирующего кода

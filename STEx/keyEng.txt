@@ -1,0 +1,8 @@
+Hot Keys:
+
+F1 - Open file
+F2 - Save all files
+F3 - Find string
+Enter - Add, replace
+Alt+Up, down - Select file
+Alt+Enter - Open selected file

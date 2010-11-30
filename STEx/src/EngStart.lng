@@ -1,0 +1,53 @@
+[TExMainForm]
+SpeedButton1Text=Search
+SpeedButton2Text=Replace
+StaticText1Text=Variable name
+GroupBox1Text=Add declaration
+SpeedButton3Text=Add
+StaticText4Text=Name
+StaticText5Text=Value
+Panel4Text=Loader
+Panel5Text=Ini file
+Panel6Text=Source code
+Panel10Text=Change folder
+N1Text=Save
+N2Text=Save as
+N8Text=Font
+N3Text=File
+N4Text=Open
+N9Text=Save all
+N11Text=Settings
+N5Text=Exit
+langMenuItemText=Language
+N15Text=About
+Label1Text=Value
+TExMainFormCaption=String Explorer v1.0
+Panel11Text=Out code
+N6Text=Open
+
+[TAbout]
+TAboutCaption=About
+Label2Text=Home page
+Label3Text=E-mail
+StaticText1Text=Program by Alex Rudenko
+
+[TMenuForm]
+TMenuFormCaption=Settings
+CheckBox1Text=Use prefics
+CheckBox2Text=Search Russian string
+Button1Text=Cancel
+Button2Text=Ok
+
+[Global]
+Lng_SaveDialogFilterIni=ini file|*.ini
+Lng_SaveDialogTitleIni=Save ini file
+Lng_SaveDialogFilterPas=pas file|*.pas
+Lng_SaveDialogTitlePas=Save source code
+Lng_SaveDialogTitleNewPas=Save new code
+Lng_FindClose=Not found
+Lng_SaveQ=Save changes in "%s"?
+Lng_SelFolder=Change folder
+FileNameError=Ivalid variable name
+ZeroLenError=Ivalid variable name
+HelpKeyFileName=keyEng.txt
+Lng_OutFileError=Out file format error
